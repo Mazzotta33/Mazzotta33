@@ -1,19 +1,18 @@
 <div id = "header" align = "centre">
-    
-   <h1>
+<h1>
     Gatin Razil
 </h1>
 </div>
 <div id="socials" align="left">
     <h3>Contacts:</h3>
     <a href="https://t.me/Mazzotta33">
-        <img src="https://i.pinimg.com/736x/d0/79/7e/d0797e9102ed05bec99c4856515d7091.jpg" width="50" height="50" alt="Telegram"/>
+      Telegram
     </a>
     <a href="https://www.instagram.com/_tatarchonock_116_/">
-        <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-395.jpg?semt=ais_hybrid&w=740" width="50" height="50" alt="instagram"/>
+        Instagram
     </a>
 </div>
-
+<br>
 <div>
   Меня зовут Разиль. Я - Frontend разработчик
   <ul>
@@ -51,5 +50,5 @@
 ##
 
 <div align = "centre">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazzotta33&show_icons=true&count_private=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotta33&langs_count=8&layout=compact&theme=radical" width="450"/>
 </div>
