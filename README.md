@@ -3,7 +3,6 @@
    <h1>
     Gatin Razil
 </h1>
-<h3>JavaScript/ TypeScript</h3>
 </div>
 <div id="socials" align="left">
     <h3>Contacts:</h3>
