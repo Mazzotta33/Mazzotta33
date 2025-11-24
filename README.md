@@ -1,4 +1,7 @@
 <div id = "header" align = "centre">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djg4YXNlcGI4Z3Jhc2w2eTE3b21lbzdhNTM1eXp3anV2aG5iMm9rYyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXRz/B6wdZEDP2TXRkA83o5/giphy.gif" width="100"/>
+</div>
 <h1>
     Gatin Razil
 </h1>
@@ -23,8 +26,12 @@
   </ul>
 </div>
 
+
+##
+
+
 <div>
-    <h3>Skills & tools</h3>
+    <h3>🛠 Skills & tools</h3>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/>&nbsp;
@@ -36,8 +43,12 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"  width="50" height="50"/>&nbsp
 </div>
 
+
+##
+
+
 <div>
-  <h3>Achievements</h3>
+  <h3>🏆 Achievements</h3>
 
   <ul>
     <li>🥉Призёр Хакатона 2025 от Барс Груп</li>
@@ -49,6 +60,6 @@
 
 ##
 
-<div align = "centre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotta33&langs_count=8&layout=compact&theme=radical" width="450"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotta33&layout=compact&theme=radical&hide=html,css,markdown&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&border_color=ffffff" alt="Top Langs" />
 </div>
